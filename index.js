@@ -1,4 +1,4 @@
-/*eslint-disable*/
+
 import BooksdataBase from './Modules/BooksdataBaseClass.js';
 import pageNav from './Modules/navigate.js';
 
