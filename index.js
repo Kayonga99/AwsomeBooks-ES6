@@ -1,6 +1,5 @@
-/*eslint-disable*/
-import BooksdataBase from './Modules/BooksdataBaseClass.js';
-import pageNav from './Modules/navigate.js';
+import BooksdataBase from './Modules/BooksdataBaseClass';
+import pageNav from './Modules/navigate';
 
 const date = document.getElementById('date');
 
