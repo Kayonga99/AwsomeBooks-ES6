@@ -11,7 +11,7 @@
 - Javascript
 
 
-[Live Demo Link](https://kayonga99.github.io/Awesome-books-ES6/)
+[Live Demo Link](https://kayonga99.github.io/AwsomeBooks-ES6/)
 
 
 **Author**
@@ -20,7 +20,7 @@
 
 - GitHub: [@Kayonga99](https://github.com/Kayonga99)
 - Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
-- LinkedIn: [Kkayonga Chiteta](https://www.linkedin.com/in/kayonga-chiteta-776949227)
+- LinkedIn: [Kkayonga Chiteta](https://www.linkedin.com/in/kayongac/)
 
 
 
