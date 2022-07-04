@@ -1,56 +1,28 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
-> Description the project.
+> Awesome books: website with ES6.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Html
+- Css
+- Javascript
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+[Live Demo Link](https://kayonga99.github.io/AwsomeBooks-ES6/)
 
 
-To get a local copy up and running follow these simple example steps.
+**Author**
 
-### Prerequisites
+👤 **Kayonga Chiteta**
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- GitHub: [@Kayonga99](https://github.com/Kayonga99)
+- Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
+- LinkedIn: [Kkayonga Chiteta](https://www.linkedin.com/in/kayongac/)
 
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
