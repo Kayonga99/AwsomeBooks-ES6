@@ -1,7 +1,7 @@
 {
   "name": "awsomebooks-es6",
   "version": "1.0.0",
-  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "description": "> Awesome books: website with ES6.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
